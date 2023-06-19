@@ -1,0 +1,6 @@
+name: muchFast
+version: '${project.version}'
+main: nozose.muchfast.MuchFast
+api-version: 1.19
+commands:
+  fast:
